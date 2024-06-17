@@ -14,6 +14,10 @@ Repository Structure
 - `AbstractClassesAndMethods/`: Contains the implementation for abstract classes and methods.
 - `Interfaces/`: Contains the implementation for interfaces.
 
+Author 
+- Adjei Beatrice- 10957926
+- Course: DCIT318 – Assignment1
+
 
  Prerequisites
 
