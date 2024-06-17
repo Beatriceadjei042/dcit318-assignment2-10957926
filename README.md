@@ -21,7 +21,4 @@ Repository Structure
 - Visual Studio or any other C# IDE
 - Git
 
-Author 
-- Adjei Beatrice- 10957926
-- Course: DCIT318 – Assignment1
 
